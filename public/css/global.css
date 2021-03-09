@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+a{
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+:root{
+    --color-6C0AD2--: #6C0AD2;
+    --color-6E0AD6--: #6E0AD6;
+    --color-6E0AD6-6-: rgba(200, 163, 240, 0.384);
+    --color-F6--: #F6F6F6;
+    --color-4a--: #4a4a4a;
+    --color-f78323--: #f78323;
+    --color-fff--: #fff;
+
+    font-size: 62.5%;
+}
+
+html,
+body{
+    height: 100%;
+}
+
+input,
+button{
+    outline: none;
+}
+
+ul{
+    list-style: none;
+}
+
+img{
+    display: block;
+    max-width: 100%;
+}
+
+.container{
+    max-width: 1050px;
+    margin: 0 auto;
+}

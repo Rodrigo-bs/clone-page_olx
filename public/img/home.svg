@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>xxxhdpi0: Icons / Category / Imóveis</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M3.34,9.52 L3.34,19.48 L20.66,19.48 L20.66,9.52 L3.34,9.52 Z M2.34,8.52 L21.66,8.52 L21.66,20.48 L2.34,20.48 L2.34,8.52 Z M20.9056986,4 L3.09430141,4 L1.82572998,8.44 L22.17427,8.44 L20.9056986,4 Z M2.34,3 L21.66,3 L23.5,9.44 L0.5,9.44 L2.34,3 Z M10.9452369,19.5468962 L10.9452369,14.3151688 C10.9452369,13.4351838 10.1623973,12.7 9.19291898,12.7 C8.22328853,12.7 7.44,13.4353347 7.44,14.3151688 L7.44,19.5468962 L10.9452369,19.5468962 Z M6.44,14.3151688 C6.44,12.868434 7.68463184,11.7 9.19291898,11.7 C10.7011303,11.7 11.9452369,12.8683709 11.9452369,14.3151688 L11.9452369,20.5468962 L6.44,20.5468962 L6.44,14.3151688 Z M15.3,14.88 L16.98,14.88 L16.98,13.2 L15.3,13.2 L15.3,14.88 Z M14.3,12.2 L17.98,12.2 L17.98,15.88 L14.3,15.88 L14.3,12.2 Z M1.42,20.52 C1.14385763,20.52 0.92,20.2961424 0.92,20.02 C0.92,19.7438576 1.14385763,19.52 1.42,19.52 L22.58,19.52 C22.8561424,19.52 23.08,19.7438576 23.08,20.02 C23.08,20.2961424 22.8561424,20.52 22.58,20.52 L1.42,20.52 Z" id="path-1"></path>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="0:-Icons-/-Category-/-Imóveis">
+            <path d="M0,0 L24,0 L24,24 L0,24 L0,0 Z M0,0 L24,0 L24,24 L0,24 L0,0 Z M0,0 L24,0 L24,24 L0,24 L0,0 Z M0,0 L24,0 L24,24 L0,24 L0,0 Z" id="Container"></path>
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Mask" fill="#4A4A4A" fill-rule="nonzero" xlink:href="#path-1"></use>
+            <g id="0:-Fundamentals-/-Color-/-Primary-/-Black" mask="url(#mask-2)" fill="#4A4A4A">
+                <rect id="Mixin/Fill/Black" x="0" y="0" width="24" height="24"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

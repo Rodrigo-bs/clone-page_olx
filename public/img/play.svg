@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="39px" height="39px" viewBox="0 0 39 39" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-plau</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="19.5" cy="19.5" r="19.5"></circle>
+        <path d="M19.4949863,13.0227631 C19.8651905,12.3887107 20.5297742,12 21.2497272,12 C21.9696802,12 22.6342639,12.3887107 23.0044681,13.0227631 L29.2306294,23.8210321 C29.5877802,24.4635783 29.5899051,25.2519848 29.2362512,25.8965483 C28.8786956,26.5482229 28.2096243,26.9572197 27.4714306,26.9656112 L15.0214517,26.9655736 C14.2898301,26.9572197 13.6207588,26.5482229 13.2632032,25.8965483 C12.9095492,25.2519848 12.9116742,24.4635783 13.2732829,23.8131583 L19.4949863,13.0227631 Z M14.2750354,24.3803209 C14.1101237,24.6770117 14.1091317,25.0450964 14.2724691,25.3427923 C14.4319048,25.6333771 14.7222818,25.8108817 15.0280238,25.8144103 L27.4648586,25.8144478 C27.7771726,25.8108817 28.0675495,25.6333771 28.2269853,25.3427923 C28.3903227,25.0450964 28.3893306,24.6770117 28.2288769,24.3881948 L22.0087488,13.6005145 C21.8447269,13.3196002 21.5568124,13.1512009 21.2497272,13.1512009 C20.9430781,13.1512009 20.6555454,13.3191221 20.4914052,13.5993182 L14.2750354,24.3803209 Z" id="path-3"></path>
+    </defs>
+    <g id="OLX---New" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop---v2" transform="translate(-725.000000, -1685.000000)">
+            <g id="Sobre-a-OLX" transform="translate(189.000000, 1558.000000)">
+                <g id="Captura-de-Tela-2018-05-23-às-13.45.17" transform="translate(506.000000, 64.000000)">
+                    <g id="home-(1)" transform="translate(30.000000, 63.000000)">
+                        <g id="icon-plau">
+                            <mask id="mask-2" fill="white">
+                                <use xlink:href="#path-1"></use>
+                            </mask>
+                            <use id="Mask" fill="#EB6D48" xlink:href="#path-1"></use>
+                            <mask id="mask-4" fill="white">
+                                <use xlink:href="#path-3"></use>
+                            </mask>
+                            <use id="Mask" stroke="#FFFFFF" fill="#FFFFFF" fill-rule="nonzero" transform="translate(21.250000, 19.482806) rotate(90.000000) translate(-21.250000, -19.482806) " xlink:href="#path-3"></use>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
